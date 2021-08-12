@@ -1,6 +1,6 @@
-# ClassApp-DevChallenge
+# DevChallenge
 
-Code implemented on ClassApp Dev Challenge assessment. The aim of this project is convert data from csv file to Json objects.
+Code implemented on Dev Challenge assessment. The aim of this project is convert data from csv file to Json objects.
 
 ## Requirements
 
