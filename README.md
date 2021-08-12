@@ -4,16 +4,20 @@ Code implemented on ClassApp Dev Challenge assessment. The aim of this project i
 
 ## Requirements
 
-You need to have Node js installed in your machine
+- Run npm install to install requeriments
+
+### Libraries used:
+
+- csv-parser
+- google-libphonenumber
 
 ## How to run
 
 ```console
-node index.js
+npm start
 ```
 
 ## References
 
 1. [Mozilla JavaScript Reference](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
 2. [Node js Official documentation](https://nodejs.org/en/docs/)

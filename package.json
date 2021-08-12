@@ -1,0 +1,24 @@
+{
+  "name": "classapp-devchallenge",
+  "version": "1.0.0",
+  "description": "Code implemented on ClassApp Dev Challenge assessment. The aim of this project is convert data from csv file to Json objects.",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "google-libphonenumber": "^3.2.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node challenge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lnvictor/ClassApp-DevChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lnvictor/ClassApp-DevChallenge/issues"
+  },
+  "homepage": "https://github.com/Lnvictor/ClassApp-DevChallenge#readme"
+}
